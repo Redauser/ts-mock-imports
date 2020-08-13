@@ -34,6 +34,9 @@ ts-mock-imports is built on top of Sinon and TypeScript. Ensure you have both in
 npm install typescript
 
 npm install sinon --save-dev
+
+npm install @types/sinon --save-dev // may be needed
+
 ```
 
 Install the library
